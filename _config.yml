@@ -5,7 +5,7 @@
 # Site
 title: HooniFluffyRabbit
 subtitle:
-description: 찰떡토끼
+description: 찰떡토끼를 좋아하는 Cloud Archi
 keywords:
 author: Sangoon Lee
 language: en
@@ -80,3 +80,4 @@ theme: phantom
 deploy:
   type: git
   repo: https://github.com/samkookji77/samkookji77.github.io.git
+  brach: master
