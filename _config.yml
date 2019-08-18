@@ -5,8 +5,8 @@
 # Site
 title: HooniFluffyRabbit
 subtitle:
-description: 찰떡토끼를 좋아하는 Cloud Architect
-keywords:
+description: 찰떡토끼를 좋아하는 Cloud Architect...
+keywords: Cloud, Infra, Engineer, Network
 author: Sangoon Lee
 language: en
 timezone: Asia/Seoul
@@ -72,7 +72,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: phantom
+#theme: phantom
+#theme: replica
+theme: next
 
 
 # Deployment
